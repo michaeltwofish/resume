@@ -261,6 +261,7 @@ hgroup h2, hgroup h3 {
         display: table-header-group; /* h5bp.com/t */
     }
 
+    hgroup,
     tr,
     img {
         page-break-inside: avoid;
